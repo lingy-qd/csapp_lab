@@ -12,4 +12,6 @@
 
 1、B站课程视频
 
-2、课程作业官方链接：http://csapp.cs.cmu.edu/3e/students.html
+2、课程官方链接：http://csapp.cs.cmu.edu/3e/students.html  
+
+3、课程lab官方链接：http://csapp.cs.cmu.edu/3e/labs.html
